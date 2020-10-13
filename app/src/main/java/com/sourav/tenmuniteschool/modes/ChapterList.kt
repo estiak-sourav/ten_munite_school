@@ -1,10 +1,10 @@
 package com.sourav.tenmuniteschool.modes
 
-data class ChapterList (
+data class ChapterList(
     var type: String?,
 
     var title: String?,
-    
-    var subItem: ArrayList<SubItem>?
+
+    var subItem: MutableList<SubItem>
 
 )
