@@ -1,7 +1,8 @@
-package com.sourav.tenmuniteschool
+package com.sourav.tenmuniteschool.activitys
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.sourav.tenmuniteschool.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
